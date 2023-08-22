@@ -2,7 +2,7 @@
 
 
 - npm i expo-cli -g
-- git clone https://github.com/ArdyYusuf-AgriTech/Mobile-Reactnative-LifeDiary.git
+- git clone (https://github.com/ardy-yusuf-wibawa/Mobile-Reactnative-LifeDiary.git)
 - cd Mobile-Reactnative-LifeDiary
 - npm install @react-navigation/native @react-navigation/native-stack
 - npx expo install react-native-screens react-native-safe-area-context
